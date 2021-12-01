@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="nama">Name</string>
+    <string name="github">Seamless Integration With GitHub</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="location">Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">search</string>
+    <string name="search_hint">search</string>
+</resources>
